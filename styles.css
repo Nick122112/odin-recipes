@@ -1,0 +1,22 @@
+.heading {
+  color: #eb4d4b;
+  font-family: cursive;
+}
+
+p {
+  font-family: Verdana, sans-serif;
+}
+
+.main-page-heading {
+  color: #fff;
+  background-color: #eb4d4b;
+}
+
+.main-recipe-list {
+  list-style-type: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main-recipe-link {
+  color: #22a6b3;
+}
